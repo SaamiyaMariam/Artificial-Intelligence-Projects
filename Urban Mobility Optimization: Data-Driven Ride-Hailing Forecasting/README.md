@@ -23,8 +23,8 @@ This Python script, `main.py`, is part of our AI project focused on optimizing u
 Note: Paths to input files are hardcoded, and the script assumes a specific dataset structure. Ensure dataset availability and adjust paths accordingly.
 
 **Authors:**
-- Saamiya Mariam (20i-0612)
-- Bisma Haroon (20i-0716)
+- Saamiya Mariam
+- Bisma Haroon
 
 **Usage:**
 1. Place the script in the project repository.
